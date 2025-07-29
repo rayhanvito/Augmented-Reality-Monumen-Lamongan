@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Marker-GapuraPaduraksaLamongan" size="10.000000 10.000000" />
+    <ImageTarget name="Marker-monumen-bandeng-lele" size="10.000000 10.000000" />
+    <ImageTarget name="Marker-monumen-kadet-soewoko" size="10.000000 10.000000" />
+    <ImageTarget name="Marker-Monumen-wingko-babat" size="10.000000 10.000000" />
+    <ImageTarget name="Marker-tugu-adipura-lamongan" size="10.000000 10.000000" />
+  </Tracking>
+</QCARConfig>

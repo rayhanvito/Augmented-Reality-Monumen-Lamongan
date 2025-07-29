@@ -1,0 +1,10 @@
+*.asset filter=lfs diff=lfs merge=lfs -text
+Assets/3D[[:space:]]Model/* filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
+*.tgz filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.prefab filter=lfs diff=lfs merge=lfs -text
+*.unity filter=lfs diff=lfs merge=lfs -text
+/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.ptc.vuforia.engine@ad7ad60b4246/Vuforia/Plugins/OSXUniversal/universal/libVuforiaEngine.dylib filter=lfs diff=lfs merge=lfs -text
+/Packages/com.ptc.vuforia.engine-10.13.3.tgz filter=lfs diff=lfs merge=lfs -text
