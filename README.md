@@ -2,7 +2,7 @@
 
 Sebuah aplikasi Augmented Reality (AR) yang dirancang untuk media pembelajaran interaktif mengenai monumen-monumen bersejarah di Kabupaten Lamongan, Jawa Timur.
 
-![Tangkapan Layar Menu Utama]([ss%20Aplikasi%20AR%20Monumen/01_menu-utama.JPG]
+![Tangkapan Layar Menu Utama](ss%20Aplikasi%20AR%20Monumen/01_menu-utama.JPG)
 
 ## 📖 Latar Belakang
 
