@@ -1,83 +1,75 @@
-# Augmented-Reality-AR-Monumen-
-Tentu, ini versi `README.md` yang disesuaikan dengan fokus untuk siswa SMP di Kabupaten Lamongan, dibangun dengan Unity, dan kompatibel untuk Android, berdasarkan *screenshot* yang Anda berikan.
+# 🏛️ AR Monumen Bersejarah Lamongan
 
------
+Sebuah aplikasi Augmented Reality (AR) yang dirancang untuk media pembelajaran interaktif mengenai monumen-monumen bersejarah di Kabupaten Lamongan, Jawa Timur.
 
-```markdown
-# 🏛️ AR Monumen Lamongan: Jelajahi Sejarah Lokal dengan Realitas Tertambah!
+![Tangkapan Layar Menu Utama](https://i.imgur.com/uFzeF61.png)
+*(**Tips:** Ganti URL di atas dengan URL screenshot `78f16085-5d80-4f46-aa25-e8e6df7f0ff4.JPG` setelah Anda mengunggahnya ke repositori GitHub Anda)*
 
-![AR Monumen Lamongan Screenshot - Main Menu](https://github.com/yourusername/yourrepo/blob/main/screenshot_main_menu.JPG)
-*(Ganti `https://github.com/yourusername/yourrepo/blob/main/screenshot_main_menu.JPG` dengan URL screenshot utama Anda, misal dari gambar 78f16085-5d80-4f46-aa25-e8e6df7f0ff4.JPG)*
+## 📖 Latar Belakang
 
-## 👋 Hai, Teman-teman Siswa SMP di Lamongan!
+Kabupaten Lamongan memiliki banyak situs dan monumen bersejarah yang menjadi saksi bisu perjuangan dan perkembangan budaya lokal. Sayangnya, media informasi yang interaktif dan menarik bagi generasi muda, khususnya siswa, masih sangat terbatas. Aplikasi **AR Monumen Bersejarah Lamongan** ini dibuat untuk menjembatani kesenjangan tersebut, mengubah cara belajar sejarah menjadi pengalaman yang imersif dan menyenangkan.
 
-Pernahkah kalian membayangkan belajar sejarah monumen di Lamongan jadi lebih seru dan modern? Kenalan yuk dengan **"AR Monumen Lamongan"**! Ini adalah aplikasi *Augmented Reality* (AR) inovatif yang dirancang khusus untuk kalian, agar pengalaman belajar sejarah lokal menjadi lebih hidup dan interaktif.
+## ✨ Fitur Utama
 
-## ✨ Apa Itu AR Monumen Lamongan?
+Aplikasi ini dilengkapi dengan berbagai fitur untuk memaksimalkan pengalaman belajar:
 
-**AR Monumen Lamongan** adalah sebuah aplikasi mobile yang mengubah cara kita berinteraksi dengan monumen-monumen bersejarah di Kabupaten Lamongan. Dibangun menggunakan teknologi Unity dan dirancang untuk perangkat Android, aplikasi ini memungkinkan kalian untuk "menghidupkan" monumen dengan menggunakan kamera ponsel kalian.
+* **Visualisasi 3D dengan Augmented Reality:** "Hidupkan" monumen bersejarah seperti Gapura Paduraksa langsung di depan mata Anda hanya dengan mengarahkan kamera ke *marker* (penanda) QR.
+    ![Fitur AR](https://i.imgur.com/L1d2mP8.png)
+    *(**Tips:** Ganti dengan URL screenshot `2f2e67c8-2096-4bbe-93f4-14579ca007d7.JPG`)*
 
-Cukup arahkan kamera ke monumen yang didukung (atau menggunakan *marker* khusus yang bisa diunduh!), dan *voila!* Informasi detail, narasi sejarah, atau bahkan model 3D interaktif akan langsung muncul di layar ponsel kalian, seolah-olah monumen itu sendiri sedang bercerita.
+* **Informasi Detail Monumen:** Setiap model 3D dilengkapi dengan tombol **"INFO"** yang menyajikan data lengkap seperti tahun pembangunan, lokasi, dan keterangan sejarah yang relevan.
+    ![Informasi Monumen](https://i.imgur.com/2YnUaP3.png)
+    *(**Tips:** Ganti dengan URL screenshot `ae9a4cf4-f1d1-42e0-8c5b-cf9bd1766dcb.JPG`)*
 
-## 🚀 Fitur-Fitur Keren di Aplikasi Ini:
+* **Panduan Pengguna yang Jelas:** Menu **"Instruksi"** atau **"User Guide"** memberikan penjelasan lengkap tentang fungsi setiap tombol di dalam aplikasi.
+    ![Panduan Pengguna](https://i.imgur.com/39l2L7S.png)
+    *(**Tips:** Ganti dengan URL screenshot `e4c081e2-378d-4a5b-a566-f980c8da636f.JPG`)*
 
-* **Pintu Gerbang AR ke Sejarah Lamongan:** Jelajahi monumen ikonik seperti Gapura Paduraksa, Monumen Bandeng dan Lele, serta banyak lainnya dengan visual 3D yang menakjubkan.
-* **Informasi Detail Interaktif:** Ketuk tombol 'INFO' untuk mendapatkan data pembangunan, lokasi, dan penjelasan mendalam tentang setiap monumen secara langsung.
-    ![AR Monumen Lamongan Screenshot - Info Screen](https://github.com/yourusername/yourrepo/blob/main/screenshot_info_screen.JPG)
-    *(Contoh: dari gambar ae9a4cf4-f1d1-42e0-8c5b-cf9bd1766dcb.JPG)*
-* **Panduan Pengguna (User Guide):** Tidak perlu bingung! Ada bagian 'USER GUIDE' yang akan memberikan petunjuk langkah demi langkah tentang cara menggunakan aplikasi ini.
-    ![AR Monumen Lamongan Screenshot - User Guide](https://github.com/yourusername/yourrepo/blob/main/screenshot_user_guide.JPG)
-    *(Contoh: dari gambar e4c081e2-378d-4a5b-a566-f980c8da636f.JPG)*
-* **Pengaturan Audio (Setting):** Kontrol pengalaman belajarmu dengan mengatur volume musik background dan efek suara melalui menu 'Setting'.
-    ![AR Monumen Lamongan Screenshot - Settings](https://github.com/yourusername/yourrepo/blob/main/screenshot_settings.JPG)
-    *(Contoh: dari gambar c7e12f8e-327c-482f-9978-88484eabec87.JPG)*
-* **Unduh Marker (Jika Diperlukan):** Aplikasi ini menyediakan opsi untuk mengunduh marker yang bisa dicetak untuk pengalaman AR di rumah atau di sekolah.
+* **Pengaturan Audio:** Atur pengalaman Anda dengan mengaktifkan atau menonaktifkan musik latar dan efek suara melalui menu **"Setting"**.
+    ![Pengaturan Aplikasi](https://i.imgur.com/4q61Z7F.png)
+    *(**Tips:** Ganti dengan URL screenshot `c7e12f8e-327c-482f-9978-88484eabec87.JPG`)*
+
+* **Unduh Marker Langsung:** Dapatkan *marker* AR dengan mudah melalui tombol unduh yang telah disediakan di menu utama.
 
 ## 🛠️ Teknologi yang Digunakan
 
-* **Game Engine:** Unity
-* **Framework AR:** (Sebutkan jika ada yang spesifik, misal: Unity AR Foundation dengan ARCore Plugin)
+* **Game Engine:** Unity 3D
+* **Framework AR:** Vuforia / AR Foundation for ARCore
 * **Bahasa Pemrograman:** C#
 * **Platform Target:** Android
 
 ## 📱 Persyaratan Sistem
 
-* Perangkat Android (Smartphone/Tablet)
-* Mendukung fitur Google ARCore (Sebagian besar ponsel Android modern sudah mendukung).
-* Versi Android: (Sebutkan versi minimum, misal: Android 7.0 (Nougat) atau lebih baru).
-* Koneksi internet (diperlukan untuk instalasi awal dan mungkin untuk mengunduh marker).
+* **Perangkat:** Smartphone atau Tablet Android
+* **Versi OS:** Android 7.0 (Nougat) atau yang lebih baru
+* **Kamera:** Berfungsi dengan baik
+* **Rekomendasi:** Perangkat yang mendukung Google ARCore untuk pengalaman yang lebih stabil.
 
-## ⬇️ Cara Instalasi dan Penggunaan
+## 🚀 Instalasi dan Cara Penggunaan
 
-1.  **Unduh file APK:**
-    * Kalian bisa mengunduh file APK langsung dari halaman rilis GitHub ini (Link akan disediakan di bagian Rilis).
-2.  **Instal Aplikasi:**
-    * Izinkan instalasi dari sumber tidak dikenal di pengaturan ponsel kalian (jika belum diizinkan).
-    * Tap pada file APK yang sudah diunduh untuk menginstal aplikasi.
-3.  **Mulai Jelajah:**
+1.  **Unduh File APK:** Dapatkan file `AR-Monumen-Lamongan.apk` dari [halaman Rilis](https://github.com/yourusername/yourrepo/releases) di repositori ini.
+2.  **Izinkan Instalasi:** Sebelum menginstal, pastikan Anda telah mengizinkan instalasi dari "sumber tidak dikenal" pada pengaturan keamanan perangkat Anda.
+3.  **Instal Aplikasi:** Buka file APK yang telah diunduh dan ikuti proses instalasi.
+4.  **Siapkan Marker:** Unduh dan cetak *marker* yang tersedia di dalam aplikasi, atau buka gambar *marker* di perangkat lain.
+5.  **Mulai Menjelajah:**
     * Buka aplikasi **AR Monumen Lamongan**.
-    * Pilih 'PLAY' untuk memulai mode AR.
-    * Izinkan akses kamera.
-    * Arahkan kamera kalian ke monumen bersejarah di Lamongan (atau ke marker yang sudah kalian unduh/cetak).
-    * Nikmati pengalaman belajar sejarah yang baru!
+    * Tekan tombol **"PLAY"**.
+    * Izinkan aplikasi untuk mengakses kamera Anda.
+    * Arahkan kamera ke *marker* yang telah disiapkan.
+    * Nikmati visualisasi 3D dan jelajahi informasi sejarahnya!
 
 ## 🤝 Kontribusi
 
-Kami sangat senang jika ada teman-teman yang ingin ikut berkontribusi atau memberikan masukan! Jika kalian punya ide untuk monumen baru yang ingin ditambahkan, menemukan masalah, atau punya saran lain, jangan sungkan untuk:
-* Membuka `Issue` baru di repositori GitHub ini.
-* (Opsional: Jika ini proyek terbuka untuk kontribusi kode) Mengirimkan Pull Request.
+Masukan, saran, dan kontribusi sangat kami hargai untuk pengembangan aplikasi ini di masa depan. Jika Anda menemukan *bug* atau memiliki ide untuk fitur baru, silakan buat *issue* baru di repositori ini.
 
 ## 📝 Lisensi
 
-Proyek ini dilisensikan di bawah Lisensi MIT. Kalian bisa melihat detail lengkapnya di file `LICENSE`.
+Proyek ini dilisensikan di bawah [Lisensi MIT](LICENSE).
 
 ## ✉️ Kontak
 
-Jika kalian punya pertanyaan, saran, atau ingin tahu lebih banyak tentang proyek ini, jangan ragu untuk menghubungi:
-
 **Rayhan Vito Gustiansyah**
-* LinkedIn: [linkedin.com/in/rayhanvito](https://linkedin.com/in/rayhanvito)
-* Email: [rayhanvito8@gmail.com](mailto:rayhanvito8@gmail.com)
+* **Email:** [rayhanvito8@gmail.com](mailto:rayhanvito8@gmail.com)
+* **LinkedIn:** [linkedin.com/in/rayhanvito](https://linkedin.com/in/rayhanvito)
 
 ---
-```
